@@ -1,6 +1,6 @@
 # The Aurora - CSS Project
 
-![The Aurora](https://itskdey.github.io/the-aurora-only-css/assets/images/aurora-preview.png)
+![The Aurora](https://github.com/itskdey/the-aurora-only-css/blob/main/demo.gif)
 
 "The Aurora" is a stunning CSS project that showcases the beauty of nature's phenomenon, the aurora borealis. It is implemented using only CSS and does not require any JavaScript. The project includes mesmerizing animations and vibrant colors to simulate the captivating display of the northern lights.
 
